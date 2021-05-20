@@ -1,7 +1,6 @@
-# React Template
-
-**Use this template to get up and running quickly on projects.**
-
-This is just like the webpack template. Use it, create the repo, connect it to your local and `npm i`.
-
-- [Steps to deploy](https://github.com/nss-nightclass-projects/REACT-Deployment-Netlify)
+# PROJECT NAME
+Shark Attack
+# PROJECT OVERVIEW
+Created functionality on page that allows user to kill of students one by one and remove them to the dead students section.
+# HOW TO USE
+A user can see all living students and hit the button at the top of the page to kill off a student one by one.
